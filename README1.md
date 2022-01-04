@@ -1,1 +1,0 @@
-In this mini project, our group implemented and investigated the performance of a multi-class logistic regression algorithm, specifically softmax regression, in tandem with a mini-batch optimization algorithm: gradient descent with momentum. This was compared to KNN, another regression classifier technique studied in this course. 
