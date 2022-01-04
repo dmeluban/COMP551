@@ -1,0 +1,1 @@
+n this mini project, our group implemented and investigated the performance and accuracy of a convolutional neural network (CNN) to classify images containing 1 to 5 numerical digits accessed through an h5py storage file. 
